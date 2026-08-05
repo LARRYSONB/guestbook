@@ -1,0 +1,3 @@
+theia@theiaopenshift-larrysonbiya:/home/project/guestbook/v1/guestbook$ kubectl apply -f deployment.yml
+deployment.apps/guestbook configured
+theia@theiaopenshift-larrysonbiya:/home/project/guestbook/v1/guestbook$
